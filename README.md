@@ -4,7 +4,7 @@ Vue boilerplate code with Pinia installed. Useful for easily starting
 projects in Stackblitz.
 
 [Open in 
-Stackblitz](stackblitz.com/github/danielkellyio/vue-template-pinia)
+Stackblitz](https://stackblitz.com/github/danielkellyio/vue-template-pinia)
 
 ## Project Setup
 
